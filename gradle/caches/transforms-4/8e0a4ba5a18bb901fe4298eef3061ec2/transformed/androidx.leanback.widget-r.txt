@@ -1,0 +1,15 @@
+androidx.leanback.widget
+attr columnWidth
+attr focusOutEnd
+attr focusOutFront
+attr focusOutSideEnd
+attr focusOutSideStart
+attr horizontalMargin
+attr numberOfColumns
+attr numberOfRows
+attr rowHeight
+attr verticalMargin
+id wrap_content
+styleable lbBaseGridView android_gravity android_horizontalSpacing android_verticalSpacing focusOutEnd focusOutFront focusOutSideEnd focusOutSideStart horizontalMargin verticalMargin
+styleable lbHorizontalGridView numberOfRows rowHeight
+styleable lbVerticalGridView columnWidth numberOfColumns

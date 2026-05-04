@@ -1,0 +1,304 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/grozdje/ott_project/app/src/main/AndroidManifest.xml:6:1-92:12
+INJECTED from /home/grozdje/ott_project/app/src/main/AndroidManifest.xml:6:1-92:12
+INJECTED from /home/grozdje/ott_project/app/src/main/AndroidManifest.xml:6:1-92:12
+INJECTED from /home/grozdje/ott_project/app/src/main/AndroidManifest.xml:6:1-92:12
+MERGED from [androidx.leanback:leanback-grid:1.0.0] /home/grozdje/ott_project/gradle/caches/transforms-4/691475c4a1caa47f10bf092635d94037/transformed/jetified-leanback-grid-1.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.leanback:leanback:1.2.0] /home/grozdje/ott_project/gradle/caches/transforms-4/b8bc6732a83aa3443ebd6fd28d7a3829/transformed/leanback-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.media3:media3-ui:1.3.1] /home/grozdje/ott_project/gradle/caches/transforms-4/010603d5ede250b6c86f6663819b164b/transformed/jetified-media3-ui-1.3.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media3:media3-extractor:1.3.1] /home/grozdje/ott_project/gradle/caches/transforms-4/c8641bbfdd4b9cef1d05b9b1897ff14d/transformed/jetified-media3-extractor-1.3.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media3:media3-container:1.3.1] /home/grozdje/ott_project/gradle/caches/transforms-4/14ff5a31f2d396eac49c71b212523c61/transformed/jetified-media3-container-1.3.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media3:media3-datasource:1.3.1] /home/grozdje/ott_project/gradle/caches/transforms-4/7c5334258b1528118143143462c018d6/transformed/jetified-media3-datasource-1.3.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media3:media3-decoder:1.3.1] /home/grozdje/ott_project/gradle/caches/transforms-4/bc0de192d7063f6f3578930fc697cf60/transformed/jetified-media3-decoder-1.3.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media3:media3-database:1.3.1] /home/grozdje/ott_project/gradle/caches/transforms-4/54618ae8d1a261f8f3abd6bedc59fd7f/transformed/jetified-media3-database-1.3.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media3:media3-common:1.3.1] /home/grozdje/ott_project/gradle/caches/transforms-4/e88515f91f4266128e27f01cc644c9c8/transformed/jetified-media3-common-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media3:media3-exoplayer-hls:1.3.1] /home/grozdje/ott_project/gradle/caches/transforms-4/f4f95427803fd840327e2dd02ce547e1/transformed/jetified-media3-exoplayer-hls-1.3.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media3:media3-exoplayer:1.3.1] /home/grozdje/ott_project/gradle/caches/transforms-4/c6c04b4f4f3326506b6816ab0e4ab792/transformed/jetified-media3-exoplayer-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] /home/grozdje/ott_project/gradle/caches/transforms-4/9f63e21a711943e092c17073e9ec374b/transformed/appcompat-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /home/grozdje/ott_project/gradle/caches/transforms-4/214dad20d7ef4656f2f509965e176e8f/transformed/fragment-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/grozdje/ott_project/gradle/caches/transforms-4/d887bdd507817dea5d2c484aad529902/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/grozdje/ott_project/gradle/caches/transforms-4/12adb744e1c195b12ef47e9757071e6b/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/grozdje/ott_project/gradle/caches/transforms-4/86c4021b5cf4bd2763d0fbe1554ae73d/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/grozdje/ott_project/gradle/caches/transforms-4/c235a14b3f89087297cea9a0269f2991/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] /home/grozdje/ott_project/gradle/caches/transforms-4/1cfa9a0e232c41c25816c32f9f69749c/transformed/recyclerview-1.3.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] /home/grozdje/ott_project/gradle/caches/transforms-4/cfd36db90d16a847ac92120f1186d96e/transformed/exifinterface-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.7.0] /home/grozdje/ott_project/gradle/caches/transforms-4/345dd8ba91c1b5b7687c4ee539042246/transformed/media-1.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/grozdje/ott_project/gradle/caches/transforms-4/ec7bd215fb6800e14c0d9218083e5a22/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/grozdje/ott_project/gradle/caches/transforms-4/962cf723aeac323009f0793661485074/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/grozdje/ott_project/gradle/caches/transforms-4/859d46ffc86d5f4c552199d7eb4b7e36/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/grozdje/ott_project/gradle/caches/transforms-4/6d6316f5f9e49ef4e794f896c3f94fbe/transformed/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/grozdje/ott_project/gradle/caches/transforms-4/e77f89ccbe4938dff8c80a622bcfe961/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/grozdje/ott_project/gradle/caches/transforms-4/b4c432f76b66334f3132569f4827fe1d/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/grozdje/ott_project/gradle/caches/transforms-4/d55c66e7296b48f73fbdad2eb7526313/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/grozdje/ott_project/gradle/caches/transforms-4/cc0a8ad8b765e3d0f46343d126f23a86/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/grozdje/ott_project/gradle/caches/transforms-4/e828f320463e4c250009bdd26911583f/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/grozdje/ott_project/gradle/caches/transforms-4/b2b7ae6ba2c4cee24a5bb521c6ca14dd/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/grozdje/ott_project/gradle/caches/transforms-4/3c97bbcdd5cd2fe6af9732e66557e00e/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /home/grozdje/ott_project/gradle/caches/transforms-4/d748b473eb0c2912505fa3bcd9c6b558/transformed/jetified-customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.9.0] /home/grozdje/ott_project/gradle/caches/transforms-4/258b2796e4bd1a60d8c86bfecafc2a83/transformed/jetified-core-ktx-1.9.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core:1.9.0] /home/grozdje/ott_project/gradle/caches/transforms-4/498012c85991e7d375200c7b29596613/transformed/core-1.9.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/grozdje/ott_project/gradle/caches/transforms-4/42b1827bcb448e58dda31665f3d144c9/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/grozdje/ott_project/gradle/caches/transforms-4/74b9a8de7defd2688d2b13026677df33/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/grozdje/ott_project/gradle/caches/transforms-4/c9c8fba7244ac5269d0009fc4017dab8/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/grozdje/ott_project/gradle/caches/transforms-4/3b1fa7e2bcf941fd7e772df175110e5f/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /home/grozdje/ott_project/gradle/caches/transforms-4/f38a428fc0b0f6ccdb94f45cc9cfcb57/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/grozdje/ott_project/gradle/caches/transforms-4/390eff85e54fac3f233f4f87fd87cb31/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/grozdje/ott_project/gradle/caches/transforms-4/304ece4348426975ad542f73008f14fa/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/grozdje/ott_project/gradle/caches/transforms-4/e6b18591c1683de2824f4616f1ac4855/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.1] /home/grozdje/ott_project/gradle/caches/transforms-4/86cd4e0debb7e970c653f3d58823c90d/transformed/jetified-annotation-experimental-1.3.1/AndroidManifest.xml:17:1-22:12
+	package
+		INJECTED from /home/grozdje/ott_project/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/grozdje/ott_project/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/grozdje/ott_project/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/grozdje/ott_project/app/src/main/AndroidManifest.xml:6:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/grozdje/ott_project/app/src/main/AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from /home/grozdje/ott_project/app/src/main/AndroidManifest.xml:9:22-64
+uses-permission#com.android.providers.tv.permission.READ_EPG_DATA
+ADDED from /home/grozdje/ott_project/app/src/main/AndroidManifest.xml:11:5-89
+	android:name
+		ADDED from /home/grozdje/ott_project/app/src/main/AndroidManifest.xml:11:22-86
+uses-permission#com.android.providers.tv.permission.WRITE_EPG_DATA
+ADDED from /home/grozdje/ott_project/app/src/main/AndroidManifest.xml:13:5-90
+	android:name
+		ADDED from /home/grozdje/ott_project/app/src/main/AndroidManifest.xml:13:22-87
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /home/grozdje/ott_project/app/src/main/AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from /home/grozdje/ott_project/app/src/main/AndroidManifest.xml:15:22-78
+uses-feature#android.hardware.touchscreen
+ADDED from /home/grozdje/ott_project/app/src/main/AndroidManifest.xml:18:5-90
+	android:required
+		ADDED from /home/grozdje/ott_project/app/src/main/AndroidManifest.xml:18:63-87
+	android:name
+		ADDED from /home/grozdje/ott_project/app/src/main/AndroidManifest.xml:18:19-62
+uses-feature#android.software.leanback
+ADDED from /home/grozdje/ott_project/app/src/main/AndroidManifest.xml:19:5-89
+	android:required
+		ADDED from /home/grozdje/ott_project/app/src/main/AndroidManifest.xml:19:63-86
+	android:name
+		ADDED from /home/grozdje/ott_project/app/src/main/AndroidManifest.xml:19:19-59
+uses-feature#android.software.live_tv
+ADDED from /home/grozdje/ott_project/app/src/main/AndroidManifest.xml:20:5-89
+	android:required
+		ADDED from /home/grozdje/ott_project/app/src/main/AndroidManifest.xml:20:63-86
+	android:name
+		ADDED from /home/grozdje/ott_project/app/src/main/AndroidManifest.xml:20:19-58
+application
+ADDED from /home/grozdje/ott_project/app/src/main/AndroidManifest.xml:22:5-91:19
+INJECTED from /home/grozdje/ott_project/app/src/main/AndroidManifest.xml:22:5-91:19
+MERGED from [androidx.core:core:1.9.0] /home/grozdje/ott_project/gradle/caches/transforms-4/498012c85991e7d375200c7b29596613/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] /home/grozdje/ott_project/gradle/caches/transforms-4/498012c85991e7d375200c7b29596613/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/grozdje/ott_project/gradle/caches/transforms-4/3b1fa7e2bcf941fd7e772df175110e5f/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/grozdje/ott_project/gradle/caches/transforms-4/3b1fa7e2bcf941fd7e772df175110e5f/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from /home/grozdje/ott_project/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] /home/grozdje/ott_project/gradle/caches/transforms-4/498012c85991e7d375200c7b29596613/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+	android:label
+		ADDED from /home/grozdje/ott_project/app/src/main/AndroidManifest.xml:25:9-41
+	android:icon
+		ADDED from /home/grozdje/ott_project/app/src/main/AndroidManifest.xml:24:9-45
+	android:allowBackup
+		ADDED from /home/grozdje/ott_project/app/src/main/AndroidManifest.xml:23:9-36
+	android:banner
+		ADDED from /home/grozdje/ott_project/app/src/main/AndroidManifest.xml:27:9-45
+	android:theme
+		ADDED from /home/grozdje/ott_project/app/src/main/AndroidManifest.xml:26:9-46
+activity#com.example.ott.MainActivity
+ADDED from /home/grozdje/ott_project/app/src/main/AndroidManifest.xml:32:9-40:20
+	android:label
+		ADDED from /home/grozdje/ott_project/app/src/main/AndroidManifest.xml:35:13-45
+	android:exported
+		ADDED from /home/grozdje/ott_project/app/src/main/AndroidManifest.xml:34:13-36
+	android:name
+		ADDED from /home/grozdje/ott_project/app/src/main/AndroidManifest.xml:33:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LEANBACK_LAUNCHER
+ADDED from /home/grozdje/ott_project/app/src/main/AndroidManifest.xml:36:13-39:29
+action#android.intent.action.MAIN
+ADDED from /home/grozdje/ott_project/app/src/main/AndroidManifest.xml:37:17-69
+	android:name
+		ADDED from /home/grozdje/ott_project/app/src/main/AndroidManifest.xml:37:25-66
+category#android.intent.category.LEANBACK_LAUNCHER
+ADDED from /home/grozdje/ott_project/app/src/main/AndroidManifest.xml:38:17-86
+	android:name
+		ADDED from /home/grozdje/ott_project/app/src/main/AndroidManifest.xml:38:27-83
+activity#com.example.ott.rich.OttSetupActivity
+ADDED from /home/grozdje/ott_project/app/src/main/AndroidManifest.xml:45:9-53:20
+	android:label
+		ADDED from /home/grozdje/ott_project/app/src/main/AndroidManifest.xml:49:13-48
+	android:exported
+		ADDED from /home/grozdje/ott_project/app/src/main/AndroidManifest.xml:47:13-36
+	android:theme
+		ADDED from /home/grozdje/ott_project/app/src/main/AndroidManifest.xml:48:13-47
+	android:name
+		ADDED from /home/grozdje/ott_project/app/src/main/AndroidManifest.xml:46:13-50
+intent-filter#action:name:android.intent.action.MAIN
+ADDED from /home/grozdje/ott_project/app/src/main/AndroidManifest.xml:50:13-52:29
+service#com.example.ott.rich.OttTvInputService
+ADDED from /home/grozdje/ott_project/app/src/main/AndroidManifest.xml:58:9-70:19
+	android:label
+		ADDED from /home/grozdje/ott_project/app/src/main/AndroidManifest.xml:60:13-45
+	android:exported
+		ADDED from /home/grozdje/ott_project/app/src/main/AndroidManifest.xml:62:13-36
+	android:permission
+		ADDED from /home/grozdje/ott_project/app/src/main/AndroidManifest.xml:61:13-66
+	android:name
+		ADDED from /home/grozdje/ott_project/app/src/main/AndroidManifest.xml:59:13-51
+intent-filter#action:name:android.media.tv.TvInputService
+ADDED from /home/grozdje/ott_project/app/src/main/AndroidManifest.xml:63:13-65:29
+action#android.media.tv.TvInputService
+ADDED from /home/grozdje/ott_project/app/src/main/AndroidManifest.xml:64:17-74
+	android:name
+		ADDED from /home/grozdje/ott_project/app/src/main/AndroidManifest.xml:64:25-71
+meta-data#android.media.tv.input
+ADDED from /home/grozdje/ott_project/app/src/main/AndroidManifest.xml:67:13-69:61
+	android:resource
+		ADDED from /home/grozdje/ott_project/app/src/main/AndroidManifest.xml:69:17-58
+	android:name
+		ADDED from /home/grozdje/ott_project/app/src/main/AndroidManifest.xml:68:17-54
+service#com.example.ott.rich.OttEpgJobService
+ADDED from /home/grozdje/ott_project/app/src/main/AndroidManifest.xml:75:9-78:39
+	android:exported
+		ADDED from /home/grozdje/ott_project/app/src/main/AndroidManifest.xml:78:13-36
+	android:permission
+		ADDED from /home/grozdje/ott_project/app/src/main/AndroidManifest.xml:77:13-69
+	android:name
+		ADDED from /home/grozdje/ott_project/app/src/main/AndroidManifest.xml:76:13-50
+receiver#com.example.ott.rich.OttBootReceiver
+ADDED from /home/grozdje/ott_project/app/src/main/AndroidManifest.xml:83:9-89:20
+	android:exported
+		ADDED from /home/grozdje/ott_project/app/src/main/AndroidManifest.xml:85:13-36
+	android:name
+		ADDED from /home/grozdje/ott_project/app/src/main/AndroidManifest.xml:84:13-49
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from /home/grozdje/ott_project/app/src/main/AndroidManifest.xml:86:13-88:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /home/grozdje/ott_project/app/src/main/AndroidManifest.xml:87:17-79
+	android:name
+		ADDED from /home/grozdje/ott_project/app/src/main/AndroidManifest.xml:87:25-76
+uses-sdk
+INJECTED from /home/grozdje/ott_project/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/grozdje/ott_project/app/src/main/AndroidManifest.xml
+INJECTED from /home/grozdje/ott_project/app/src/main/AndroidManifest.xml
+MERGED from [androidx.leanback:leanback-grid:1.0.0] /home/grozdje/ott_project/gradle/caches/transforms-4/691475c4a1caa47f10bf092635d94037/transformed/jetified-leanback-grid-1.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.leanback:leanback-grid:1.0.0] /home/grozdje/ott_project/gradle/caches/transforms-4/691475c4a1caa47f10bf092635d94037/transformed/jetified-leanback-grid-1.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.leanback:leanback:1.2.0] /home/grozdje/ott_project/gradle/caches/transforms-4/b8bc6732a83aa3443ebd6fd28d7a3829/transformed/leanback-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.leanback:leanback:1.2.0] /home/grozdje/ott_project/gradle/caches/transforms-4/b8bc6732a83aa3443ebd6fd28d7a3829/transformed/leanback-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.media3:media3-ui:1.3.1] /home/grozdje/ott_project/gradle/caches/transforms-4/010603d5ede250b6c86f6663819b164b/transformed/jetified-media3-ui-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-ui:1.3.1] /home/grozdje/ott_project/gradle/caches/transforms-4/010603d5ede250b6c86f6663819b164b/transformed/jetified-media3-ui-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-extractor:1.3.1] /home/grozdje/ott_project/gradle/caches/transforms-4/c8641bbfdd4b9cef1d05b9b1897ff14d/transformed/jetified-media3-extractor-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-extractor:1.3.1] /home/grozdje/ott_project/gradle/caches/transforms-4/c8641bbfdd4b9cef1d05b9b1897ff14d/transformed/jetified-media3-extractor-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-container:1.3.1] /home/grozdje/ott_project/gradle/caches/transforms-4/14ff5a31f2d396eac49c71b212523c61/transformed/jetified-media3-container-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-container:1.3.1] /home/grozdje/ott_project/gradle/caches/transforms-4/14ff5a31f2d396eac49c71b212523c61/transformed/jetified-media3-container-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-datasource:1.3.1] /home/grozdje/ott_project/gradle/caches/transforms-4/7c5334258b1528118143143462c018d6/transformed/jetified-media3-datasource-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-datasource:1.3.1] /home/grozdje/ott_project/gradle/caches/transforms-4/7c5334258b1528118143143462c018d6/transformed/jetified-media3-datasource-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-decoder:1.3.1] /home/grozdje/ott_project/gradle/caches/transforms-4/bc0de192d7063f6f3578930fc697cf60/transformed/jetified-media3-decoder-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-decoder:1.3.1] /home/grozdje/ott_project/gradle/caches/transforms-4/bc0de192d7063f6f3578930fc697cf60/transformed/jetified-media3-decoder-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-database:1.3.1] /home/grozdje/ott_project/gradle/caches/transforms-4/54618ae8d1a261f8f3abd6bedc59fd7f/transformed/jetified-media3-database-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-database:1.3.1] /home/grozdje/ott_project/gradle/caches/transforms-4/54618ae8d1a261f8f3abd6bedc59fd7f/transformed/jetified-media3-database-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-common:1.3.1] /home/grozdje/ott_project/gradle/caches/transforms-4/e88515f91f4266128e27f01cc644c9c8/transformed/jetified-media3-common-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-common:1.3.1] /home/grozdje/ott_project/gradle/caches/transforms-4/e88515f91f4266128e27f01cc644c9c8/transformed/jetified-media3-common-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-exoplayer-hls:1.3.1] /home/grozdje/ott_project/gradle/caches/transforms-4/f4f95427803fd840327e2dd02ce547e1/transformed/jetified-media3-exoplayer-hls-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-exoplayer-hls:1.3.1] /home/grozdje/ott_project/gradle/caches/transforms-4/f4f95427803fd840327e2dd02ce547e1/transformed/jetified-media3-exoplayer-hls-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-exoplayer:1.3.1] /home/grozdje/ott_project/gradle/caches/transforms-4/c6c04b4f4f3326506b6816ab0e4ab792/transformed/jetified-media3-exoplayer-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-exoplayer:1.3.1] /home/grozdje/ott_project/gradle/caches/transforms-4/c6c04b4f4f3326506b6816ab0e4ab792/transformed/jetified-media3-exoplayer-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] /home/grozdje/ott_project/gradle/caches/transforms-4/9f63e21a711943e092c17073e9ec374b/transformed/appcompat-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] /home/grozdje/ott_project/gradle/caches/transforms-4/9f63e21a711943e092c17073e9ec374b/transformed/appcompat-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/grozdje/ott_project/gradle/caches/transforms-4/214dad20d7ef4656f2f509965e176e8f/transformed/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/grozdje/ott_project/gradle/caches/transforms-4/214dad20d7ef4656f2f509965e176e8f/transformed/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/grozdje/ott_project/gradle/caches/transforms-4/d887bdd507817dea5d2c484aad529902/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/grozdje/ott_project/gradle/caches/transforms-4/d887bdd507817dea5d2c484aad529902/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/grozdje/ott_project/gradle/caches/transforms-4/12adb744e1c195b12ef47e9757071e6b/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/grozdje/ott_project/gradle/caches/transforms-4/12adb744e1c195b12ef47e9757071e6b/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/grozdje/ott_project/gradle/caches/transforms-4/86c4021b5cf4bd2763d0fbe1554ae73d/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/grozdje/ott_project/gradle/caches/transforms-4/86c4021b5cf4bd2763d0fbe1554ae73d/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/grozdje/ott_project/gradle/caches/transforms-4/c235a14b3f89087297cea9a0269f2991/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/grozdje/ott_project/gradle/caches/transforms-4/c235a14b3f89087297cea9a0269f2991/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] /home/grozdje/ott_project/gradle/caches/transforms-4/1cfa9a0e232c41c25816c32f9f69749c/transformed/recyclerview-1.3.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] /home/grozdje/ott_project/gradle/caches/transforms-4/1cfa9a0e232c41c25816c32f9f69749c/transformed/recyclerview-1.3.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] /home/grozdje/ott_project/gradle/caches/transforms-4/cfd36db90d16a847ac92120f1186d96e/transformed/exifinterface-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] /home/grozdje/ott_project/gradle/caches/transforms-4/cfd36db90d16a847ac92120f1186d96e/transformed/exifinterface-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.7.0] /home/grozdje/ott_project/gradle/caches/transforms-4/345dd8ba91c1b5b7687c4ee539042246/transformed/media-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.media:media:1.7.0] /home/grozdje/ott_project/gradle/caches/transforms-4/345dd8ba91c1b5b7687c4ee539042246/transformed/media-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/grozdje/ott_project/gradle/caches/transforms-4/ec7bd215fb6800e14c0d9218083e5a22/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/grozdje/ott_project/gradle/caches/transforms-4/ec7bd215fb6800e14c0d9218083e5a22/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/grozdje/ott_project/gradle/caches/transforms-4/962cf723aeac323009f0793661485074/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/grozdje/ott_project/gradle/caches/transforms-4/962cf723aeac323009f0793661485074/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/grozdje/ott_project/gradle/caches/transforms-4/859d46ffc86d5f4c552199d7eb4b7e36/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/grozdje/ott_project/gradle/caches/transforms-4/859d46ffc86d5f4c552199d7eb4b7e36/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/grozdje/ott_project/gradle/caches/transforms-4/6d6316f5f9e49ef4e794f896c3f94fbe/transformed/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/grozdje/ott_project/gradle/caches/transforms-4/6d6316f5f9e49ef4e794f896c3f94fbe/transformed/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/grozdje/ott_project/gradle/caches/transforms-4/e77f89ccbe4938dff8c80a622bcfe961/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/grozdje/ott_project/gradle/caches/transforms-4/e77f89ccbe4938dff8c80a622bcfe961/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/grozdje/ott_project/gradle/caches/transforms-4/b4c432f76b66334f3132569f4827fe1d/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/grozdje/ott_project/gradle/caches/transforms-4/b4c432f76b66334f3132569f4827fe1d/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/grozdje/ott_project/gradle/caches/transforms-4/d55c66e7296b48f73fbdad2eb7526313/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/grozdje/ott_project/gradle/caches/transforms-4/d55c66e7296b48f73fbdad2eb7526313/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/grozdje/ott_project/gradle/caches/transforms-4/cc0a8ad8b765e3d0f46343d126f23a86/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/grozdje/ott_project/gradle/caches/transforms-4/cc0a8ad8b765e3d0f46343d126f23a86/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/grozdje/ott_project/gradle/caches/transforms-4/e828f320463e4c250009bdd26911583f/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/grozdje/ott_project/gradle/caches/transforms-4/e828f320463e4c250009bdd26911583f/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/grozdje/ott_project/gradle/caches/transforms-4/b2b7ae6ba2c4cee24a5bb521c6ca14dd/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/grozdje/ott_project/gradle/caches/transforms-4/b2b7ae6ba2c4cee24a5bb521c6ca14dd/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/grozdje/ott_project/gradle/caches/transforms-4/3c97bbcdd5cd2fe6af9732e66557e00e/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/grozdje/ott_project/gradle/caches/transforms-4/3c97bbcdd5cd2fe6af9732e66557e00e/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /home/grozdje/ott_project/gradle/caches/transforms-4/d748b473eb0c2912505fa3bcd9c6b558/transformed/jetified-customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /home/grozdje/ott_project/gradle/caches/transforms-4/d748b473eb0c2912505fa3bcd9c6b558/transformed/jetified-customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.9.0] /home/grozdje/ott_project/gradle/caches/transforms-4/258b2796e4bd1a60d8c86bfecafc2a83/transformed/jetified-core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] /home/grozdje/ott_project/gradle/caches/transforms-4/258b2796e4bd1a60d8c86bfecafc2a83/transformed/jetified-core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core:1.9.0] /home/grozdje/ott_project/gradle/caches/transforms-4/498012c85991e7d375200c7b29596613/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] /home/grozdje/ott_project/gradle/caches/transforms-4/498012c85991e7d375200c7b29596613/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/grozdje/ott_project/gradle/caches/transforms-4/42b1827bcb448e58dda31665f3d144c9/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/grozdje/ott_project/gradle/caches/transforms-4/42b1827bcb448e58dda31665f3d144c9/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/grozdje/ott_project/gradle/caches/transforms-4/74b9a8de7defd2688d2b13026677df33/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/grozdje/ott_project/gradle/caches/transforms-4/74b9a8de7defd2688d2b13026677df33/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/grozdje/ott_project/gradle/caches/transforms-4/c9c8fba7244ac5269d0009fc4017dab8/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/grozdje/ott_project/gradle/caches/transforms-4/c9c8fba7244ac5269d0009fc4017dab8/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/grozdje/ott_project/gradle/caches/transforms-4/3b1fa7e2bcf941fd7e772df175110e5f/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/grozdje/ott_project/gradle/caches/transforms-4/3b1fa7e2bcf941fd7e772df175110e5f/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /home/grozdje/ott_project/gradle/caches/transforms-4/f38a428fc0b0f6ccdb94f45cc9cfcb57/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /home/grozdje/ott_project/gradle/caches/transforms-4/f38a428fc0b0f6ccdb94f45cc9cfcb57/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/grozdje/ott_project/gradle/caches/transforms-4/390eff85e54fac3f233f4f87fd87cb31/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/grozdje/ott_project/gradle/caches/transforms-4/390eff85e54fac3f233f4f87fd87cb31/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/grozdje/ott_project/gradle/caches/transforms-4/304ece4348426975ad542f73008f14fa/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/grozdje/ott_project/gradle/caches/transforms-4/304ece4348426975ad542f73008f14fa/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/grozdje/ott_project/gradle/caches/transforms-4/e6b18591c1683de2824f4616f1ac4855/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/grozdje/ott_project/gradle/caches/transforms-4/e6b18591c1683de2824f4616f1ac4855/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.3.1] /home/grozdje/ott_project/gradle/caches/transforms-4/86cd4e0debb7e970c653f3d58823c90d/transformed/jetified-annotation-experimental-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.1] /home/grozdje/ott_project/gradle/caches/transforms-4/86cd4e0debb7e970c653f3d58823c90d/transformed/jetified-annotation-experimental-1.3.1/AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from /home/grozdje/ott_project/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/grozdje/ott_project/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [androidx.media3:media3-common:1.3.1] /home/grozdje/ott_project/gradle/caches/transforms-4/e88515f91f4266128e27f01cc644c9c8/transformed/jetified-media3-common-1.3.1/AndroidManifest.xml:22:5-79
+MERGED from [androidx.media3:media3-exoplayer:1.3.1] /home/grozdje/ott_project/gradle/caches/transforms-4/c6c04b4f4f3326506b6816ab0e4ab792/transformed/jetified-media3-exoplayer-1.3.1/AndroidManifest.xml:22:5-79
+MERGED from [androidx.media3:media3-exoplayer:1.3.1] /home/grozdje/ott_project/gradle/caches/transforms-4/c6c04b4f4f3326506b6816ab0e4ab792/transformed/jetified-media3-exoplayer-1.3.1/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [androidx.media3:media3-common:1.3.1] /home/grozdje/ott_project/gradle/caches/transforms-4/e88515f91f4266128e27f01cc644c9c8/transformed/jetified-media3-common-1.3.1/AndroidManifest.xml:22:22-76
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /home/grozdje/ott_project/gradle/caches/transforms-4/498012c85991e7d375200c7b29596613/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /home/grozdje/ott_project/gradle/caches/transforms-4/498012c85991e7d375200c7b29596613/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /home/grozdje/ott_project/gradle/caches/transforms-4/498012c85991e7d375200c7b29596613/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+permission#com.example.ott.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /home/grozdje/ott_project/gradle/caches/transforms-4/498012c85991e7d375200c7b29596613/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /home/grozdje/ott_project/gradle/caches/transforms-4/498012c85991e7d375200c7b29596613/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /home/grozdje/ott_project/gradle/caches/transforms-4/498012c85991e7d375200c7b29596613/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /home/grozdje/ott_project/gradle/caches/transforms-4/498012c85991e7d375200c7b29596613/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /home/grozdje/ott_project/gradle/caches/transforms-4/498012c85991e7d375200c7b29596613/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+uses-permission#com.example.ott.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /home/grozdje/ott_project/gradle/caches/transforms-4/498012c85991e7d375200c7b29596613/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /home/grozdje/ott_project/gradle/caches/transforms-4/498012c85991e7d375200c7b29596613/transformed/core-1.9.0/AndroidManifest.xml:26:22-94

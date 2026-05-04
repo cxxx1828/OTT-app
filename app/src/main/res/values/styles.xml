@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base leanback theme used by MainActivity -->
+    <style name="Theme.Leanback" parent="@style/Theme.Leanback">
+        <item name="android:windowBackground">@android:color/black</item>
+    </style>
+
+    <!-- Full-screen theme used by SetupActivity -->
+    <style name="Theme.Setup" parent="@android:style/Theme.Holo.Light.NoActionBar">
+        <item name="android:windowBackground">@android:color/black</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+</resources>

@@ -1,0 +1,8 @@
+androidx.media3.database.BuildConfig
+androidx.media3.database.DatabaseIOException
+androidx.media3.database.DatabaseProvider
+androidx.media3.database.DefaultDatabaseProvider
+androidx.media3.database.ExoDatabaseProvider
+androidx.media3.database.StandaloneDatabaseProvider
+androidx.media3.database.VersionTable
+androidx.media3.database.package-info

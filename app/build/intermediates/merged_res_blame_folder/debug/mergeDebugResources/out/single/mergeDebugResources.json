@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/grozdje/.gradle/daemon/8.7/com.example.ott.app-debug-17:/layout_activity_setup.xml.flat",
+        "source": "/home/grozdje/.gradle/daemon/8.7/com.example.ott.app-main-19:/layout/activity_setup.xml"
+    },
+    {
+        "merged": "com.example.ott.app-debug-17:/drawable_ic_launcher.xml.flat",
+        "source": "com.example.ott.app-main-19:/drawable/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/grozdje/.gradle/daemon/8.7/com.example.ott.app-debug-17:/xml_otttvinputservice.xml.flat",
+        "source": "/home/grozdje/.gradle/daemon/8.7/com.example.ott.app-main-19:/xml/otttvinputservice.xml"
+    },
+    {
+        "merged": "/home/grozdje/.gradle/daemon/8.7/com.example.ott.app-debug-17:/layout_activity_main.xml.flat",
+        "source": "/home/grozdje/.gradle/daemon/8.7/com.example.ott.app-main-19:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.ott.app-debug-17:/drawable_ic_banner.xml.flat",
+        "source": "com.example.ott.app-main-19:/drawable/ic_banner.xml"
+    }
+]

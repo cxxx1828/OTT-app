@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.ott.app-mergeDebugResources-15:/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "/home/grozdje/.gradle/caches/transforms-4/b8bc6732a83aa3443ebd6fd28d7a3829/transformed/leanback-1.2.0/res/values-v18/values-v18.xml",
+                    "from": {
+                        "startLines": "2,12",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,765",
+                        "endLines": "11,20",
+                        "endColumns": "12,12",
+                        "endOffsets": "760,1352"
+                    },
+                    "to": {
+                        "startLines": "3,13",
+                        "startColumns": "4,4",
+                        "startOffsets": "104,814",
+                        "endLines": "12,21",
+                        "endColumns": "12,12",
+                        "endOffsets": "809,1401"
+                    }
+                },
+                {
+                    "source": "/home/grozdje/.gradle/caches/transforms-4/9f63e21a711943e092c17073e9ec374b/transformed/appcompat-1.0.0/res/values-v18/values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}

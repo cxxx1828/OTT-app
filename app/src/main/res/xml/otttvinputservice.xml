@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    TV Input metadata for OttTvInputService.
+    Android TV / Live Channels reads this to discover:
+      - which activity to launch for setup
+      - the human-readable service label
+    Reference: https://developer.android.com/reference/android/media/tv/TvInputInfo
+-->
+<tv-input xmlns:android="http://schemas.android.com/apk/res/android"
+    android:setupActivity="com.example.ott.rich.OttSetupActivity"
+    android:canRecord="false" />

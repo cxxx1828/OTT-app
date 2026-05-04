@@ -1,0 +1,27 @@
+int attr columnWidth 0x0
+int attr focusOutEnd 0x0
+int attr focusOutFront 0x0
+int attr focusOutSideEnd 0x0
+int attr focusOutSideStart 0x0
+int attr horizontalMargin 0x0
+int attr numberOfColumns 0x0
+int attr numberOfRows 0x0
+int attr rowHeight 0x0
+int attr verticalMargin 0x0
+int id wrap_content 0x0
+int[] styleable lbBaseGridView { 0x10100af, 0x1010114, 0x1010115, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0 }
+int styleable lbBaseGridView_android_gravity 0
+int styleable lbBaseGridView_android_horizontalSpacing 1
+int styleable lbBaseGridView_android_verticalSpacing 2
+int styleable lbBaseGridView_focusOutEnd 3
+int styleable lbBaseGridView_focusOutFront 4
+int styleable lbBaseGridView_focusOutSideEnd 5
+int styleable lbBaseGridView_focusOutSideStart 6
+int styleable lbBaseGridView_horizontalMargin 7
+int styleable lbBaseGridView_verticalMargin 8
+int[] styleable lbHorizontalGridView { 0x0, 0x0 }
+int styleable lbHorizontalGridView_numberOfRows 0
+int styleable lbHorizontalGridView_rowHeight 1
+int[] styleable lbVerticalGridView { 0x0, 0x0 }
+int styleable lbVerticalGridView_columnWidth 0
+int styleable lbVerticalGridView_numberOfColumns 1

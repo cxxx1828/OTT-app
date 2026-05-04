@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OTT TV</string>
+    <string name="btn_cancel_label">Cancel</string>
+    <string name="btn_scan_label">Scan Channels</string>
+    <string name="main_status_message">OTT TV is installed.\nOpen Live Channels to watch TV.</string>
+    <string name="setup_connecting">Connecting to channel server…</string>
+    <string name="setup_done">✓ Setup complete – %1$d channels added.</string>
+    <string name="setup_error_generic">Error during scan:\n%1$s</string>
+    <string name="setup_error_no_channels">No channels returned by server.\nCheck that the Python server is running at:</string>
+    <string name="setup_fetching_channels">Fetching channel list…</string>
+    <string name="setup_loading_epg">Loading EPG: %1$s (%2$d / %3$d)…</string>
+    <string name="setup_prompt">Press \"Scan Channels\" to fetch your channel list from the server.</string>
+    <string name="setup_title">OTT Channel Setup</string>
+    <string name="setup_writing_channels">Writing %1$d channels to TvContract…</string>
+    <style name="Theme.Leanback" parent="@style/Theme.Leanback">
+        <item name="android:windowBackground">@android:color/black</item>
+    </style>
+    <style name="Theme.Setup" parent="@android:style/Theme.Holo.Light.NoActionBar">
+        <item name="android:windowBackground">@android:color/black</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+</resources>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="exo_controls_playback_speeds">
+    <item>0.25x</item>
+    <item>0.5x</item>
+    <item>0.75x</item>
+    <item>Normal</item>
+    <item>1.25x</item>
+    <item>1.5x</item>
+    <item>2x</item>
+  </string-array>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+    <item quantity="one">%d saniyə irəli çəkin</item>
+    <item quantity="other">%d saniyə irəli çəkin</item>
+  </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+    <item quantity="one">%d saniyə geri çəkin</item>
+    <item quantity="other">%d saniyə geri çəkin</item>
+  </plurals>
+    <string name="exo_controls_cc_disabled_description">Subtitrləri aktiv edin</string>
+    <string name="exo_controls_cc_enabled_description">Subtitrləri deaktiv edin</string>
+    <string name="exo_controls_fastforward_description">İrəli çəkin</string>
+    <string name="exo_controls_fullscreen_enter_description">Tam ekrana daxil olun</string>
+    <string name="exo_controls_fullscreen_exit_description">Tam ekrandan çıxın</string>
+    <string name="exo_controls_hide">Oyunçu nəzarətlərini gizlədin</string>
+    <string name="exo_controls_next_description">Sonra</string>
+    <string name="exo_controls_overflow_hide_description">Əlavə ayarları gizlədin</string>
+    <string name="exo_controls_overflow_show_description">Əlavə ayarları göstərin</string>
+    <string name="exo_controls_pause_description">Pauza</string>
+    <string name="exo_controls_play_description">Oxudun</string>
+    <string name="exo_controls_playback_speed">Sürət</string>
+    <string name="exo_controls_previous_description">Əvvəl</string>
+    <string name="exo_controls_repeat_all_description">Cari rejim: Hamısını təkrarlayın. Təkrarlanma rejimini keçirin.</string>
+    <string name="exo_controls_repeat_off_description">Cari rejim: Heç birini təkrarlamayın. Təkrarlanma rejimini keçirin.</string>
+    <string name="exo_controls_repeat_one_description">Cari rejim: Birini təkrarlayın. Təkrarlanma rejimini keçirin.</string>
+    <string name="exo_controls_rewind_description">Geri çəkin</string>
+    <string name="exo_controls_seek_bar_description">Oxutmanın gedişatı</string>
+    <string name="exo_controls_settings_description">Ayarlar</string>
+    <string name="exo_controls_show">Oyunçu nəzarətlərini göstərin</string>
+    <string name="exo_controls_shuffle_off_description">Qarışdırma rejimini aktiv edin</string>
+    <string name="exo_controls_shuffle_on_description">Qarışdırma rejimini deaktiv edin</string>
+    <string name="exo_controls_stop_description">Dayandırın</string>
+    <string name="exo_controls_vr_description">VR rejimi</string>
+    <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
+    <string name="exo_track_mono">Mono</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
+    <string name="exo_track_role_alternate">Alternativ</string>
+    <string name="exo_track_role_closed_captions">Nüsxəni alan</string>
+    <string name="exo_track_role_commentary">Şərh</string>
+    <string name="exo_track_role_supplementary">Əlavə</string>
+    <string name="exo_track_selection_auto">Avtomatik</string>
+    <string name="exo_track_selection_none">Yoxdur</string>
+    <string name="exo_track_selection_title_audio">Audio</string>
+    <string name="exo_track_selection_title_text">Mətn</string>
+    <string name="exo_track_selection_title_video">Video</string>
+    <string name="exo_track_stereo">Stereo</string>
+    <string name="exo_track_surround">Yüksək səs</string>
+    <string name="exo_track_surround_5_point_1">5.1 yüksək səs</string>
+    <string name="exo_track_surround_7_point_1">7.1 yüksək səs</string>
+    <string name="exo_track_unknown">Naməlum</string>
+    <string name="exo_track_unknown_name">Naməlum (%1$s)</string>
+</resources>

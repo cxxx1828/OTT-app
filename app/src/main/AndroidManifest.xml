@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    OTT Application Manifest
+    Registers MainActivity, SetupActivity, TvInputService and supporting components.
+-->
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Network access for HLS streams and server JSON -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <!-- Read channel/program data from TvProvider -->
+    <uses-permission android:name="com.android.providers.tv.permission.READ_EPG_DATA" />
+    <!-- Write channel/program data to TvProvider -->
+    <uses-permission android:name="com.android.providers.tv.permission.WRITE_EPG_DATA" />
+    <!-- Re-schedule EPG sync after device reboot -->
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+
+    <!-- Android TV hardware requirements -->
+    <uses-feature android:name="android.hardware.touchscreen" android:required="false" />
+    <uses-feature android:name="android.software.leanback"    android:required="true" />
+    <uses-feature android:name="android.software.live_tv"     android:required="true" />
+
+    <application
+        android:allowBackup="false"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/Theme.Leanback"
+        android:banner="@drawable/ic_banner">
+
+        <!-- ================================================================
+             MainActivity – Leanback launcher entry point (dummy splash)
+             ================================================================ -->
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LEANBACK_LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- ================================================================
+             SetupActivity – launched by Live Channels before using the input
+             ================================================================ -->
+        <activity
+            android:name=".rich.OttSetupActivity"
+            android:exported="true"
+            android:theme="@style/Theme.Setup"
+            android:label="@string/setup_title">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+            </intent-filter>
+        </activity>
+
+        <!-- ================================================================
+             OTT TV Input Service
+             ================================================================ -->
+        <service
+            android:name=".rich.OttTvInputService"
+            android:label="@string/app_name"
+            android:permission="android.permission.BIND_TV_INPUT"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.media.tv.TvInputService" />
+            </intent-filter>
+            <!-- Points Live Channels to SetupActivity -->
+            <meta-data
+                android:name="android.media.tv.input"
+                android:resource="@xml/otttvinputservice" />
+        </service>
+
+        <!-- ================================================================
+             EPG sync job – runs periodically to refresh channel data
+             ================================================================ -->
+        <service
+            android:name=".rich.OttEpgJobService"
+            android:permission="android.permission.BIND_JOB_SERVICE"
+            android:exported="true" />
+
+        <!-- ================================================================
+             Boot receiver – reschedules EPG sync after reboot
+             ================================================================ -->
+        <receiver
+            android:name=".rich.OttBootReceiver"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+        </receiver>
+
+    </application>
+</manifest>
