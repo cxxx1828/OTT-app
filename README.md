@@ -90,8 +90,8 @@ If content is restricted:
 
 ## Author
 
-Nina Dragićević
-Bogdan Cvetanovski Pašalić
+Nina Dragićević and
+Bogdan Cvetanovski Pašalić,
 Faculty of Technical Sciences, Novi Sad
 Department of Computer Engineering and Communications
 
